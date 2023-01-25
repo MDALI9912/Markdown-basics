@@ -66,7 +66,7 @@ Insert Into
     "Designation"  :      "developer",
     "Github Profile":     "https://github.com/MDALI9912/Markdown-basics",
     "website"      :      "https://MDALI9912/",
-    "married"      :       fales,
+    "married"      :       false,
     "Brothers"     :       1,
     "sisters"      :       1
 }
